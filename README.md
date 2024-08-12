@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi there, I'm Ali Falah 👋
+
+Thanks for stopping by my GitHub profile!
+
+Please refer to my main profile [here](https://github.com/Ali-Falah-Humda).
+
+Looking forward to connecting with you there!
+
+!![robot](!_.jpg)
 
 <!--
 **falireza/falireza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
