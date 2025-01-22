@@ -25,20 +25,26 @@ Here are some ideas to get you started:
 
 # Hello, Universe! 🌌
 
-!![robot](!_.jpg)
+![robot](!_.jpg)
 
 Thanks for stopping by my GitHub profile!
 
-
-
 <p align='left'>
 I am a Robotics Research Engineer with a passion for pushing the boundaries of what's possible in autonomous systems.
-My primary areas of interest include environment perception, sensor fusion, LiDARs and Computer Vision. I also dabble in embedded systems programming using modern C++. I'm also very passionate about Reinforcement Learning and have worked on various projects.
 </p>
 
-![A2RL](IMG_1788.jpg)
+### My Expertise Includes:
+- **Environment Perception, Sensor Fusion, Cameras, and LiDARs**  
+- **Robot Operating System (ROS) Development with Modern C++**  
+- **Reinforcement Learning and Robotics Simulations**
+
+
+![A2RL](car2.jpg)
 
 > "Given two rewarding stimuli, animals tend to choose the more rewarding (or less effortful) option. However, they also move faster toward that stimulus."
+
+Here is me in the Abu Dhabi Autonomous Racing League: [Picture](withcar.jpg)
+
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-313131?style=for-the-badge&logo=gmail&logoColor=red)](mailto:al.r.falah@gmail.com)
 
