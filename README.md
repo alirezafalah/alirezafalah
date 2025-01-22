@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 # Hello, Universe! 🌌
 
-![robot](!_.jpg)
+![robot](/images/!_.jpg)
 
 Thanks for stopping by my GitHub profile!
 
@@ -39,11 +39,11 @@ I am a Robotics Research Engineer with a passion for pushing the boundaries of w
 - **Reinforcement Learning and Robotics Simulations**
 
 
-![A2RL](car2.jpg)
+![A2RL](/images/car2.jpg)
 
 > "Given two rewarding stimuli, animals tend to choose the more rewarding (or less effortful) option. However, they also move faster toward that stimulus."
 
-Here is me in the Abu Dhabi Autonomous Racing League: [Picture](withcar.jpg)
+Here is me in the Abu Dhabi Autonomous Racing League: [A2RL](/images/withcar.jpg)
 
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-313131?style=for-the-badge&logo=gmail&logoColor=red)](mailto:al.r.falah@gmail.com)
