@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 # Hello, Universe! 🌌
 
-![robot](/images/!_.jpg)
+<!--![robot](/images/!_.jpg)-->
 
 Thanks for stopping by my GitHub profile!
 
