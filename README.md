@@ -46,7 +46,7 @@ I am a Robotics Research Engineer with a passion for pushing the boundaries of w
 Here is me in the Abu Dhabi Autonomous Racing League: [A2RL](/images/withcar.jpg)
 
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-313131?style=for-the-badge&logo=gmail&logoColor=red)](mailto:al.r.falah@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-313131?style=for-the-badge&logo=gmail&logoColor=red)](mailto:falirezah94@gmail.com)
 
 <!--
 ![Your Picture](DSC097652.jpg)
