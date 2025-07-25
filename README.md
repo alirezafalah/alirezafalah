@@ -38,10 +38,16 @@ I am a Robotics Research Engineer with a passion for pushing the boundaries of w
 - **Robot Operating System (ROS) Development with Modern C++**  
 - **Reinforcement Learning and Robotics Simulations**
 
-For a comprehensive list of my projects, publications, and detailed work, please visit my portfolio website:
+For a comprehensive list of my projects, publications, and detailed work, please visit my portfolio website: ➡️ [alirezafalah.github.io](https://alirezafalah.github.io) 
 
-**➡️ [alirezafalah.github.io](https://alirezafalah.github.io) ⬅️**
+-   **💻 Tech Stack:**
 
+    ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+    ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+    ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+    ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ![A2RL](/images/car2.jpg)
 
@@ -52,14 +58,7 @@ Here is me in the Abu Dhabi Autonomous Racing League: [A2RL](/images/withcar.jpg
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-313131?style=for-the-badge&logo=gmail&logoColor=red)](mailto:falirezah94@gmail.com)
 
--   **💻 Tech Stack:**
 
-    ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-    ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-    ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 <!--
 ![Your Picture](DSC097652.jpg)
